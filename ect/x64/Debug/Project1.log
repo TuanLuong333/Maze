@@ -1,0 +1,17 @@
+﻿  khoitao.cpp
+C:\Users\ASUS\source\repos\Project1\Declare.h(67,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+  (compiling source file 'khoitao.cpp')
+  
+C:\Users\ASUS\source\repos\Project1\Declare.h(78,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  (compiling source file 'khoitao.cpp')
+  
+C:\Users\ASUS\source\repos\Project1\Slime.h(49,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'khoitao.cpp')
+  
+C:\Users\ASUS\source\repos\Project1\Slime.h(50,34): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'khoitao.cpp')
+  
+C:\Users\ASUS\source\repos\Project1\Slime.h(52,28): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'khoitao.cpp')
+  
+  Project1.vcxproj -> C:\Users\ASUS\source\repos\Project1\x64\Debug\Project1.exe
