@@ -18,3 +18,4 @@ Hướng dẫn chơi game:
 +) người chơi sử dụng 4 nút up, down, left, right để di chuyển nhân vật đến vị trí cánh cổng để có thể thoát khỏi mê cung
 +) khi đang chơi có thể ấn phím P hoặc ECS để hiển thị màn hình lựa chọn
 +) khi đến vị trí cánh cổng thì màn hình sẽ hiển thị màn hình con lựa chọn
+(mongodb password: fuslkMuoNLnXdY6M)
